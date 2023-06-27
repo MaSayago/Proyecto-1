@@ -3,7 +3,7 @@
 
 ## Descripción del proyecto 
 
-El proyecto consta de realizar un análisis exploratorio de datos de películas, crear una API para acceder a información sobre películas y entrenar un modelo de recomendación basado en similitud de puntuaciones.
+El proyecto consta de un análisis exploratorio de datos de películas, crear una API para acceder a información sobre películas y entrenar un modelo de recomendación basado en similitud de puntuaciones.
 
 ## Transfomraciones realizadas
 
